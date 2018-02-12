@@ -3,6 +3,12 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Authors>Jeff Johnson, Roman Hoog Antink</Authors>
+    <Company></Company>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <AssemblyTitle>ExchangeSharp-netcore</AssemblyTitle>
+    <Description>dotnet core port of ExchangeSharp by Jeff Johnson</Description>
+    <Copyright>Roman Hoog Antink 2018; MIT License</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
