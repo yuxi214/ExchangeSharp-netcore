@@ -4,7 +4,7 @@
 			"path": "ExchangeSharp"
 		},
 		{
-			"path": "Console"
+			"path": "ExchangeSharpConsole"
 		}
 	],
 	"settings": {}
