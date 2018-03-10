@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/bin/Debug/netcoreapp2.0/ExchangeSharpConsole.dll",
+            "program": "${workspaceRoot}/../ExchangeSharpConsole/bin/Debug/netcoreapp2.0/ExchangeSharpConsole.dll",
             "args": ["test"],
-            "cwd": "${workspaceFolder}",
+            "cwd": "${workspaceRoot}",
             "console": "internalConsole",
             "stopAtEntry": false,
             "internalConsoleOptions": "openOnSessionStart"
